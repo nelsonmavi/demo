@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, data, data-jpa, gradle, hibernate-jpa, java, jdbc-hikari, junit, logback, picocli, picocli-java-application, picocli-junit, postgres, readme, shade, spring, spring-boot, spring-data-jpa, testcontainers, yaml]
